@@ -1,0 +1,44 @@
+
+header {
+  padding: 3.2rem;
+  display: flex;
+  justify-content: space-between;
+  font:var(--text-md)
+}
+
+
+header section {
+  width: 59.2rem;
+  display: flex;
+  gap: 3.2rem;
+}
+
+h1{
+  font:var(--text-lg);
+  margin-bottom: 0.8rem;
+}
+
+header section+ section {
+  width: 28rem;
+  padding-left: 0.8rem;
+  display: flex;
+  align-items: center;
+  
+}
+
+header section+ section ul {
+
+  display: flex ;
+  flex-direction: column;
+  gap: 1.6rem;
+ 
+      
+}
+
+header section ul li{
+  display: flex ;
+  align-items: center ;
+  gap: 0.8rem;
+}
+
+

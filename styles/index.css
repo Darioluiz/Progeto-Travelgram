@@ -1,40 +1,6 @@
 @import url(/styles/global.css);
 @import url(/styles/nav.css);
-
-
-header {
-  padding: 3.2rem;
-  display: flex;
-  justify-content: space-between;
-}
-
-
-header section {
-  width: 59.2rem;
-  display: flex;
-  gap: 3.2rem;
-}
-
-h1{
-  font-size: 3.2rem;
-  margin-bottom: 0.8rem;
-}
-
-header section+ section {
-  width: 28rem;
-  
-}
-
-header section+ section ul {
-  display: flex;
-  justify-content: space-around;
-  flex-direction: column;
-    
-}
-
-header section ul li{
-  align-content: center;
-}
+@import url(/styles/header.css);
 
 
 
