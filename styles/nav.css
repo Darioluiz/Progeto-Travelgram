@@ -1,0 +1,21 @@
+nav{
+  padding: 2.4rem 3.2rem;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+nav ul {
+  width: 32.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-block: 0.8rem;
+  
+}
+
+
+#profile {
+  width: 4rem;
+  height: 4rem;
+} 
