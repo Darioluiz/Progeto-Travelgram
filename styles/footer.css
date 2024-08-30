@@ -1,0 +1,12 @@
+  footer{
+    padding: 2.5rem;
+    display: flex;
+    gap: 2.4rem ;
+    
+  }
+
+span:nth-child(1) {
+    margin-right: auto;
+  }
+
+ 
